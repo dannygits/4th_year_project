@@ -1,7 +1,7 @@
 # Ecommerce-App
 git repo for ecommerce app
 
-The following is a base demo application that is similar to jumia, amazon and E-bay. The demo has full administrator permissions and also includes other demo accounts that have limited permissions. the demo app is inspired by Andre Madarang. Follow the link to view his awesome tutorials: https://www.youtube.com/watch?v=o5PWIuDTgxg&list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR
+The following is a base demo application that is similar to jumia, amazon and E-bay. The demo has full administrator permissions and also includes other demo accounts that have limited permissions. 
 
 To Access the full project, kindly follow the steps below:
 1. Clone the repository and cd into it.
