@@ -205,7 +205,7 @@
         (function(){
             // Create a Stripe client.
             // also use own stripe test key.. this is default
-            var stripe = Stripe('pk_test_nTDg1H6SQv9hlHmjLqAYYs1D007vYwGv9W');
+            var stripe = Stripe('pk_test_51HgU2OJmFy9KXILoMw2PoXbT3JWyLNe5rmc6NBBaNObTcyAJ4FL6dObwZqCKECq1OM9qVECgvnGNPcsqruyMtudM00JtBPswuo');
 
             // Create an instance of Elements.
             var elements = stripe.elements();
